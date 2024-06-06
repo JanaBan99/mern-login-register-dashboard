@@ -54,7 +54,7 @@ const Register = () => {
 
                 <div className="formDiv flex">
                     <div className="headerDiv">
-                        <img src={logo} alt="Logo Image" />
+                        <img src={logo} alt="Logo Image" style={{ width: '180px', height: '100px' }}/>
                         <h3>Let Us Know You!</h3>
                     </div>
 

@@ -71,8 +71,8 @@ const Login = () => {
 
                 <div className="formDiv flex">
                     <div className="headerDiv">
-                        <img src={logo} alt="Logo Image" />
-                        <h3>Welcome Back!</h3>
+                        <img src={logo} alt="Logo Image" style={{ width: '180px', height: '100px' }} />
+                        <h3>Welcome !!!</h3>
                     </div>
 
                     <form action="" className="form grid" onSubmit={onSubmit}>
